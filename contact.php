@@ -58,7 +58,7 @@ https://templatemo.com/tm-556-catalog-z
         <div class="row tm-mb-50">
             <div class="col-lg-4 col-12 mb-5">
                 <h2 class="tm-text-primary mb-5">Contact Page</h2>
-                <form id="contact-form" action="" method="POST" class="tm-contact-form mx-auto">
+                <form id="contact-form" action="phpCodes/process.php" method="POST" class="tm-contact-form mx-auto">
                     <div class="form-group">
                         <input type="text" name="name" class="form-control rounded-0" placeholder="Name" required />
                     </div>
